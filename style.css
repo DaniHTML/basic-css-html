@@ -1,0 +1,23 @@
+body {
+    background-color: white;
+    
+}   
+
+h1 {
+    color: royalblue;
+    font-family: serif, Ariel;
+    font-size: 30px;
+}
+
+p {
+    color:royalblue;
+    font-size: 15px;
+    
+}
+
+h3 {
+    color: royalblue;
+    font-family: serif, Ariel;
+    font-size: 15px;
+    text-align: center;
+}
